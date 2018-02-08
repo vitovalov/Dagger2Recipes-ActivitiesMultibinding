@@ -1,6 +1,6 @@
 package com.frogermcs.recipes.dagger_activities_multibinding.second_activity;
 
-import com.frogermcs.recipes.dagger_activities_multibinding.di.activity.ActivityScope;
+import com.frogermcs.recipes.dagger_activities_multibinding.di.ActivityScope;
 
 import javax.inject.Inject;
 

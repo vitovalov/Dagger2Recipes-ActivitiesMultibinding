@@ -1,4 +1,4 @@
-package com.frogermcs.recipes.dagger_activities_multibinding.di.activity;
+package com.frogermcs.recipes.dagger_activities_multibinding.di;
 
 import javax.inject.Scope;
 

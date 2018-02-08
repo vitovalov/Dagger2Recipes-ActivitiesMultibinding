@@ -2,8 +2,6 @@ package com.frogermcs.recipes.dagger_activities_multibinding;
 
 import android.app.Activity;
 
-import com.frogermcs.recipes.dagger_activities_multibinding.di.activity.ActivityComponentBuilder;
-
 import java.util.HashMap;
 import java.util.Map;
 
