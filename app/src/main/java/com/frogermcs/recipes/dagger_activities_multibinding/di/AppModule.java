@@ -21,4 +21,10 @@ public abstract class AppModule {
     @Binds
     abstract Context provideContext(Application application);
 
+//    not necessary, but works
+//    @Provides
+//    @Singleton
+//    static Utils provideUtils() {
+//        return new Utils();
+//    }
 }
