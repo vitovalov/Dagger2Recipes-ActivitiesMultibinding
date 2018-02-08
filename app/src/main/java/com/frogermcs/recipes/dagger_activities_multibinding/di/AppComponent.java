@@ -25,6 +25,7 @@ import dagger.android.support.AndroidSupportInjectionModule;
         }
 )
 public interface AppComponent extends AndroidInjector<DaggerApplication> {
+
     void inject(MyApplication application);
 
     @Override
